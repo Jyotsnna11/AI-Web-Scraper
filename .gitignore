@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.vscode/
+ai/
+chrome-win64/
+
